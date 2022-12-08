@@ -4,7 +4,7 @@ Personal project to practice JavaScript and Bootstrap skills. A page to fill wit
 
 ## Link to the page
 
-[Click here](https://dimterion.github.io/Story-page/).
+[Story page](https://dimterion.github.io/Story-page/)
 
 ## Built with
 
